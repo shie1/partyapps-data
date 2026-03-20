@@ -1921,7 +1921,7 @@
     {
       "id": "forgotten-birthday",
       "question": {
-        "hu": "elfelejtettem valakinek a születésnapját",
+        "hu": "felejtettem el valakinek a születésnapját",
         "en": "forgotten someone's birthday"
       },
       "gamemodes": [
@@ -1931,7 +1931,7 @@
     {
       "id": "eaten-food-off-floor",
       "question": {
-        "hu": "felvettem és megettem az ételt, ami leesett a padlóra",
+        "hu": "vettem fel és ettem meg az ételt, ami leesett a padlóra",
         "en": "eaten food that fell on the floor"
       },
       "gamemodes": [
@@ -1961,7 +1961,7 @@
     {
       "id": "forgotten-where-parked",
       "question": {
-        "hu": "elfelejtettem, hova parkoltam le az autómat",
+        "hu": "felejtettem el, hova parkoltam le az autómat",
         "en": "forgotten where I parked my car"
       },
       "gamemodes": [
@@ -2001,7 +2001,7 @@
     {
       "id": "waved-at-stranger",
       "question": {
-        "hu": "visszaintegettem valakinek, aki nem nekem intett",
+        "hu": "integettem vissza valakinek, aki nem nekem intett",
         "en": "waved back at someone who wasn't waving at me"
       },
       "gamemodes": [
@@ -2011,7 +2011,7 @@
     {
       "id": "liked-old-photo-accidentally",
       "question": {
-        "hu": "véletlenül meglikeoltam egy régi fotót, miközben valaki profilját böngésztem",
+        "hu": "véletlenül likeoltam meg egy régi fotót, miközben valaki profilját böngésztem",
         "en": "accidentally liked an old photo while stalking someone's profile"
       },
       "gamemodes": [
@@ -2021,7 +2021,7 @@
     {
       "id": "walked-into-glass-door",
       "question": {
-        "hu": "belesetáltam egy üvegajtóba vagy falba",
+        "hu": "sétáltam bele egy üvegajtóba vagy falba",
         "en": "walked into a glass door or wall"
       },
       "gamemodes": [
@@ -2031,7 +2031,7 @@
     {
       "id": "locked-myself-out",
       "question": {
-        "hu": "kizártam magam az autómból vagy a lakásomból",
+        "hu": "zártam ki magam az autómból vagy a lakásomból",
         "en": "locked myself out of my house or car"
       },
       "gamemodes": [
@@ -2051,7 +2051,7 @@
     {
       "id": "fallen-asleep-at-cinema",
       "question": {
-        "hu": "elaludtam a moziban",
+        "hu": "aludtam el a moziban",
         "en": "fallen asleep at the cinema"
       },
       "gamemodes": [
@@ -2161,7 +2161,7 @@
     {
       "id": "forgotten-name-mid-conversation",
       "question": {
-        "hu": "elfelejtettem valaki nevét egy beszélgetés közben",
+        "hu": "felejtettem el valaki nevét egy beszélgetés közben",
         "en": "forgotten someone's name in the middle of a conversation"
       },
       "gamemodes": [
@@ -2201,7 +2201,7 @@
     {
       "id": "forgotten-anniversary",
       "question": {
-        "hu": "elfelejtettem egy évfordulót vagy fontos dátumot",
+        "hu": "felejtettem el egy évfordulót vagy fontos dátumot",
         "en": "forgotten an anniversary or important date"
       },
       "gamemodes": [
@@ -2211,7 +2211,7 @@
     {
       "id": "slept-through-alarm",
       "question": {
-        "hu": "átaludtam több ébresztőt",
+        "hu": "aludtam át több ébresztőt",
         "en": "slept through multiple alarms"
       },
       "gamemodes": [
@@ -2241,7 +2241,7 @@
     {
       "id": "spent-all-day-in-bed",
       "question": {
-        "hu": "töltöttem egy teljes napot ágyban betegség nélkül",
+        "hu": "töltöttem el egy teljes napot ágyban betegség nélkül",
         "en": "spent an entire day in bed without being sick"
       },
       "gamemodes": [
@@ -2251,7 +2251,7 @@
     {
       "id": "broken-a-promise",
       "question": {
-        "hu": "megszegtem egy komoly ígéretet",
+        "hu": "szegtem meg egy komoly ígéretet",
         "en": "broken a serious promise"
       },
       "gamemodes": [
@@ -2261,7 +2261,7 @@
     {
       "id": "borrowed-never-returned",
       "question": {
-        "hu": "kölcsönkértem valamit és soha nem adtam vissza",
+        "hu": "kértem kölcsön valamit és soha nem adtam vissza",
         "en": "borrowed something and never returned it"
       },
       "gamemodes": [
@@ -2271,7 +2271,7 @@
     {
       "id": "eaten-whole-pizza",
       "question": {
-        "hu": "megettem egy egész pizzát egyedül",
+        "hu": "ettem meg egy egész pizzát egyedül",
         "en": "eaten an entire pizza by myself"
       },
       "gamemodes": [
@@ -2281,7 +2281,7 @@
     {
       "id": "pretended-to-be-sick",
       "question": {
-        "hu": "tettettem, hogy beteg vagyok, hogy kimentem legyek",
+        "hu": "tettettem, hogy beteg vagyok, hogy kibújjak valami alól",
         "en": "pretended to be sick to get out of something"
       },
       "gamemodes": [
@@ -2301,7 +2301,7 @@
     {
       "id": "been-catfished",
       "question": {
-        "hu": "átvágtak az interneten (catfishing)",
+        "hu": "vertek át az interneten (catfishing)",
         "en": "been catfished online"
       },
       "gamemodes": [
@@ -2311,7 +2311,7 @@
     {
       "id": "overslept-important-event",
       "question": {
-        "hu": "átaludtam egy fontos eseményt",
+        "hu": "aludtam át egy fontos eseményt",
         "en": "overslept an important event"
       },
       "gamemodes": [
@@ -2331,7 +2331,7 @@
     {
       "id": "talked-back-to-authority",
       "question": {
-        "hu": "visszabeszéltem egy tekintélyszemélynek",
+        "hu": "beszéltem vissza egy tekintélyszemélynek",
         "en": "talked back to an authority figure"
       },
       "gamemodes": [
@@ -2351,7 +2351,7 @@
     {
       "id": "fell-on-street",
       "question": {
-        "hu": "elestem az utcán emberek előtt",
+        "hu": "estem el az utcán emberek előtt",
         "en": "fallen on the street in front of people"
       },
       "gamemodes": [
@@ -2361,7 +2361,7 @@
     {
       "id": "snuck-out-at-night",
       "question": {
-        "hu": "éjjel kiosontam hazulról",
+        "hu": "osontam ki éjjel hazulról",
         "en": "snuck out of the house at night"
       },
       "gamemodes": [
@@ -2383,7 +2383,7 @@
     {
       "id": "quit-job-impulsively",
       "question": {
-        "hu": "azonnal felmondtam egy munkát anélkül, hogy másik lett volna",
+        "hu": "mondtam fel azonnal egy munkát anélkül, hogy másik lett volna",
         "en": "quit a job on the spot without having another lined up"
       },
       "gamemodes": [
@@ -2405,7 +2405,7 @@
     {
       "id": "tried-extreme-sport",
       "question": {
-        "hu": "kipróbáltam egy extrém sportot",
+        "hu": "próbáltam ki egy extrém sportot",
         "en": "tried an extreme sport"
       },
       "gamemodes": [
@@ -2427,7 +2427,7 @@
     {
       "id": "drove-while-sleepy",
       "question": {
-        "hu": "nagyon fáradtan vezettam autót",
+        "hu": "nagyon fáradtan vezettem autót",
         "en": "driven a car while extremely tired or sleepy"
       },
       "gamemodes": [
@@ -2449,7 +2449,7 @@
     {
       "id": "spontaneous-road-trip",
       "question": {
-        "hu": "spontán hosszabb útra keltem",
+        "hu": "keltem spontán hosszabb útra",
         "en": "gone on a spontaneous road trip"
       },
       "gamemodes": [
@@ -2460,7 +2460,7 @@
     {
       "id": "climbed-fence",
       "question": {
-        "hu": "átmásztam egy kerítésen vagy kapun",
+        "hu": "másztam át egy kerítésen vagy kapun",
         "en": "climbed over a fence or gate"
       },
       "gamemodes": [
@@ -2471,7 +2471,7 @@
     {
       "id": "got-lost-in-foreign-country",
       "question": {
-        "hu": "súlyosan eltévedtem egy idegen országban",
+        "hu": "súlyosan tévedtem el egy idegen országban",
         "en": "gotten seriously lost in a foreign country"
       },
       "gamemodes": [
@@ -2493,7 +2493,7 @@
     {
       "id": "read-partner-messages",
       "question": {
-        "hu": "elolvastam a párom üzeneteit a tudta nélkül",
+        "hu": "olvastam el a párom üzeneteit a tudta nélkül",
         "en": "read my partner's messages without their knowledge"
       },
       "gamemodes": [
@@ -2524,7 +2524,7 @@
     {
       "id": "broke-into-building",
       "question": {
-        "hu": "betörtem egy épületbe",
+        "hu": "törtem be egy épületbe",
         "en": "broken into a building"
       },
       "gamemodes": [
@@ -2544,7 +2544,7 @@
     {
       "id": "drove-without-license",
       "question": {
-        "hu": "jogosítvány nélkül vezettam autót",
+        "hu": "jogosítvány nélkül vezettem autót",
         "en": "driven a car without a license"
       },
       "gamemodes": [
@@ -2574,7 +2574,7 @@
     {
       "id": "tried-hard-drugs",
       "question": {
-        "hu": "kipróbáltam kemény drogokat",
+        "hu": "próbáltam ki kemény drogokat",
         "en": "tried hard drugs"
       },
       "gamemodes": [
@@ -2594,7 +2594,7 @@
     {
       "id": "tattoo-while-drunk",
       "question": {
-        "hu": "részegen csináltattam tetoválást vagy piercingot",
+        "hu": "részegen csináltattam tetoválást vagy piercinget",
         "en": "gotten a tattoo or piercing while drunk"
       },
       "gamemodes": [
@@ -2624,7 +2624,7 @@
     {
       "id": "pulled-fire-alarm",
       "question": {
-        "hu": "meghúztam a tűzrisztót, amikor nem volt tűz",
+        "hu": "húztam meg a tűzriasztót, amikor nem volt tűz",
         "en": "pulled a fire alarm when there was no fire"
       },
       "gamemodes": [
@@ -2645,7 +2645,7 @@
       "id": "drank-until-memory-loss",
       "question": {
         "hu": "annyit ittam, hogy nem emlékszem az előző éjszakára",
-        "en": "drunk so much I have no memory of the night"
+        "en": "been so drunk that I have no memory of the night"
       },
       "gamemodes": [
         "Crazy"
@@ -2674,7 +2674,7 @@
     {
       "id": "kissed-without-knowing-name",
       "question": {
-        "hu": "megcsókoltam valakit anélkül, hogy tudtam volna a nevét",
+        "hu": "csókoltam meg valakit anélkül, hogy tudtam volna a nevét",
         "en": "kissed someone without knowing their name"
       },
       "gamemodes": [
@@ -2684,7 +2684,7 @@
     {
       "id": "slept-with-someone-first-date",
       "question": {
-        "hu": "lefeküdtem valakivel az első randin",
+        "hu": "feküdtem le valakivel az első randin",
         "en": "slept with someone on the first date"
       },
       "gamemodes": [
@@ -2844,7 +2844,7 @@
     {
       "id": "caught-feelings-for-fwb",
       "question": {
-        "hu": "beleszerettem a 'barátokkal előnyökkel' kapcsolatom partnerébe",
+        "hu": "szerettem bele a 'barátokkal előnyökkel' kapcsolatom partnerébe",
         "en": "caught feelings for a friend with benefits"
       },
       "gamemodes": [
